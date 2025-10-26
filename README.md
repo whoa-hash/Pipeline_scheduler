@@ -10,7 +10,7 @@ For Windows system (VSCode):
 For Linux system (Ubuntu):
 {your venv name}\bin\activate
 
-Things I came across:
+Troubleshooting:
 Things I had to manually download include:
   graphviz (sudo install) (approve sudo install in settings)
   gcc
